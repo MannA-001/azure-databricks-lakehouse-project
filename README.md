@@ -33,7 +33,7 @@ The goal is to create analytics-ready datasets following real-world data enginee
 - Format: Delta Lake
 - Architecture Pattern: Medallion (Bronze / Silver / Gold)
 
-![ADF Pipeline](images/adf/pipeline_canvas.png)
+![ADF Pipeline](images/Pipeline.png)
 
 ---
 
